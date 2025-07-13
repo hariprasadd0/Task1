@@ -1,0 +1,14 @@
+{
+  "patients": [
+    "John Doe",
+    "Alice Smith",
+    "Bob Johnson",
+    "Sarah Lee"
+  ],
+  "doctors": [
+    "Dr. Strange",
+    "Dr. House",
+    "Dr. Meredith Grey",
+    "Dr. Gregory"
+  ]
+}
